@@ -19,7 +19,10 @@ import Hero1 from "@/app/_components/Hero1";
 import Hero2 from "@/app/_components/Hero2";
 import Featured from "./_components/Featured";
 import FooterBasic from "./_components/FooterBasic";
-import UsedBy from "./_components/UsedBy";
+import UsedBy from "./_components/TrustedBy";
+import HowItWorks from "./_components/HowItWorks";
+import Pricing from "./_components/Pricing1";
+import Pricing1 from "./_components/Pricing1";
 export default function Home() {
   return (
     <>
@@ -28,6 +31,9 @@ export default function Home() {
       {/* <Hero2 /> */}
       <UsedBy />
       <Featured />
+      <HowItWorks />
+      {/* Features */}
+      <Pricing1 />
       <FooterBasic />
     </>
   );
