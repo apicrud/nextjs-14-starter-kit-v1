@@ -10,6 +10,7 @@
 // 8. CTA
 // 9. Footer
 // 10. 404 pag
+// 11. Lemonsqueezy integration
 
 // import Image from "next/image";
 
